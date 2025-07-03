@@ -1,47 +1,51 @@
 # Estimation Theory
-**Course taught by Dr. Rouhollah Amiri**
 
-This repository contains my notes, assignments, and implementations from the *Estimation Theory* course.
+📚 **Course taught by Dr. Rouhollah Amiri**
 
-## Topics Covered
+This repository contains my notes, assignments, and implementations from the *Estimation Theory* course.  
+It covers both classical and modern estimation techniques, frequentist and Bayesian approaches, and advanced filtering methods.
 
-- **Unbiased Estimation**
-  - Unbiased estimators
-  - Minimum variance unbiased estimator (MVUE)
+---
 
-- **Lower Bounds**
-  - Cramér-Rao lower bound (CRLB)
-  - Bhattacharyya lower bound
-  - Constrained Cramér-Rao lower bound
+## 📖 Topics Covered
 
-- **Sufficiency & Completeness**
-  - Sufficient statistics
-  - Neyman-Fisher factorization theorem
-  - Minimal sufficient statistics
-  - Complete sufficient statistics
-  - Rao-Blackwell-Lehmann-Scheffé (RBLS) theorem
+### 🎯 Unbiased Estimation
+- Unbiased estimators
+- Minimum variance unbiased estimator (**MVUE**)
 
-- **Optimal Estimators**
-  - Best linear unbiased estimator (BLUE)
-  - Maximum likelihood estimator (MLE) & its asymptotic efficiency
-  - Maximum a posteriori estimator (MAP)
-  - Minimum mean square error (MMSE) estimator
+### 📉 Lower Bounds
+- **Cramér-Rao lower bound (CRLB)**
+- **Bhattacharyya lower bound**
+- **Constrained Cramér-Rao lower bound**
 
-- **Frequentist & Bayesian Approaches**
-  - Prior and conjugate priors
-  - Bayesian Cramér-Rao lower bound (BCRLB)
-  - Weighted and ordinal BCRLB
+### 🧮 Sufficiency & Completeness
+- Sufficient statistics
+- **Neyman-Fisher factorization theorem**
+- Minimal sufficient statistics
+- Complete sufficient statistics
+- **Rao-Blackwell-Lehmann-Scheffé (RBLS) theorem**
 
-- **Filters & Recursive Estimation**
-  - Kalman filter
-  - Extended Kalman filter (EKF)
-  - Particle filter
+### 🏆 Optimal Estimators
+- **Best linear unbiased estimator (BLUE)**
+- **Maximum likelihood estimator (MLE)** & its asymptotic efficiency
+- **Maximum a posteriori estimator (MAP)**
+- **Minimum mean square error (MMSE) estimator**
 
-- **Sampling Techniques**
-  - Importance sampling
-  - Markov Chain Monte Carlo (MCMC)
+### 📊 Frequentist & Bayesian Approaches
+- Priors and conjugate priors
+- **Bayesian Cramér-Rao lower bound (BCRLB)**
+- Weighted and ordinal BCRLB
 
-- **Advanced Topics**
-  - Theoretical analysis of neural networks
+### 🔄 Filters & Recursive Estimation
+- **Kalman filter**
+- **Extended Kalman filter (EKF)**
+- **Particle filter**
+
+### 🧩 Sampling Techniques
+- **Importance sampling**
+- **Markov Chain Monte Carlo (MCMC)**
+
+### 🚀 Advanced Topics
+- Theoretical analysis of neural networks
 
 ---
