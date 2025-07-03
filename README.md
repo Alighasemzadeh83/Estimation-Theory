@@ -45,5 +45,3 @@ This repository contains my notes, assignments, and implementations from the *Es
   - Theoretical analysis of neural networks
 
 ---
-
-✅ *This repository serves as a comprehensive reference for the theory and practical implementations explored during the course.*
